@@ -1,0 +1,16 @@
+document.getElementById("about").onclick=function()
+{
+    location.href="about.html";
+}
+document.getElementById("home").onclick=function()
+{
+    location.href="index.html";
+}
+document.getElementById("project").onclick=function()
+{
+    location.href="project.html";
+}
+document.getElementById("resume").onclick=function()
+{
+    location.href="contact.html";
+}
